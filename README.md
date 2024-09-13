@@ -14,4 +14,5 @@
 鸣谢@一泽Eze的提示词
 
 ## 如何在此基础上修改,并使用自己的key?
+重命名:[.env.local.example](.env.local.example)为[.env.local](.env.local)
 编辑[.env.local](.env.local)文件,填入自己的API_KEY即可.
